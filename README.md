@@ -31,3 +31,7 @@ As part of automation practice:
 
 Script location in the real environment:
 
+
+## Screenshots
+Project screenshots are available in the screenshots directory.
+
